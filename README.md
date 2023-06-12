@@ -6,6 +6,10 @@ HTML Refactor Challenge
 
 Converting an existing html and css project from div based to use HTML Semantics. Div's from the project were all removed and converted to section, article, header, footer, etc. CSS file was changed to be shorter, and classes were renamed so that CSS styling could be shorter and more readable.
 
+## Screenshot
+
+![HTML Refactor - Website Screenshot](assets/images/WebsiteScreenshot.png)
+
 ## Getting Started
 
 - Open website in GitHub pages using the following url: https://hansonnick25.github.io/html-refactor/
