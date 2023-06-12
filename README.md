@@ -1,65 +1,33 @@
 # Project Title
 
-Simple overview of use/purpose.
+HTML Refactor Challenge
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Converting an existing html and css project from div based to use HTML Semantics. Div's from the project were all removed and converted to section, article, header, footer, etc. CSS file was changed to be shorter, and classes were renamed so that CSS styling could be shorter and more readable.
 
 ## Getting Started
 
+- Open website in GitHub pages using the following url: https://hansonnick25.github.io/html-refactor/
+
 ### Dependencies
 
-- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-- ex. Windows 10
+- Modern web browser ([Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Safari](https://www.apple.com/safari/), etc.)
 
 ### Installing
 
-- How/where to download your program
-- Any modifications needed to be made to files/folders
+- Installing is not needed, code is for a website
 
 ### Executing program
 
-- How to run the program
-- Step-by-step bullets
-
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
+- Clone repository to your local machine. See css file in: /assets/css/style.css and html file: index.html in base directory.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-- 0.2
-  - Various bug fixes and optimizations
-  - See [commit change]() or See [release history]()
-- 0.1
-  - Initial Release
+- Nick Hanson
+  - https://github.com/hansonnick25
+  - hansonnick25@gmail.com
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-
-- [awesome-readme](https://github.com/matiassingers/awesome-readme)
-- [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-- [dbader](https://github.com/dbader/readme-template)
-- [zenorocha](https://gist.github.com/zenorocha/4526327)
-- [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+This project does not have any licenses
